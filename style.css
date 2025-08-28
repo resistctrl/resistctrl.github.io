@@ -22,7 +22,7 @@ h1, h2 {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1440342359743-94991de34f74?q=80&w=1000&auto=format&fit=crop') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1476673160081-cf065607f449?q=80&w=1000&auto=format&fit=crop') no-repeat center center/cover;
     height: 100vh;
     display: flex;
     align-items: center;
